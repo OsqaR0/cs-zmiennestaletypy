@@ -1,0 +1,15 @@
+D:\Programowanie\C#\Zmienne, stałe oraz podstawowe typy danych\obj\Debug\net6.0\Zmienne, stałe oraz podstawowe typy danych.csproj.AssemblyReference.cache
+D:\Programowanie\C#\Zmienne, stałe oraz podstawowe typy danych\obj\Debug\net6.0\Zmienne, stałe oraz podstawowe typy danych.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programowanie\C#\Zmienne, stałe oraz podstawowe typy danych\obj\Debug\net6.0\Zmienne, stałe oraz podstawowe typy danych.AssemblyInfoInputs.cache
+D:\Programowanie\C#\Zmienne, stałe oraz podstawowe typy danych\obj\Debug\net6.0\Zmienne, stałe oraz podstawowe typy danych.AssemblyInfo.cs
+D:\Programowanie\C#\Zmienne, stałe oraz podstawowe typy danych\obj\Debug\net6.0\Zmienne, stałe oraz podstawowe typy danych.csproj.CoreCompileInputs.cache
+D:\Programowanie\C#\Zmienne, stałe oraz podstawowe typy danych\bin\Debug\net6.0\Zmienne, stałe oraz podstawowe typy danych.exe
+D:\Programowanie\C#\Zmienne, stałe oraz podstawowe typy danych\bin\Debug\net6.0\Zmienne, stałe oraz podstawowe typy danych.deps.json
+D:\Programowanie\C#\Zmienne, stałe oraz podstawowe typy danych\bin\Debug\net6.0\Zmienne, stałe oraz podstawowe typy danych.runtimeconfig.json
+D:\Programowanie\C#\Zmienne, stałe oraz podstawowe typy danych\bin\Debug\net6.0\Zmienne, stałe oraz podstawowe typy danych.dll
+D:\Programowanie\C#\Zmienne, stałe oraz podstawowe typy danych\bin\Debug\net6.0\Zmienne, stałe oraz podstawowe typy danych.pdb
+D:\Programowanie\C#\Zmienne, stałe oraz podstawowe typy danych\obj\Debug\net6.0\Zmienne, stałe oraz podstawowe typy danych.dll
+D:\Programowanie\C#\Zmienne, stałe oraz podstawowe typy danych\obj\Debug\net6.0\refint\Zmienne, stałe oraz podstawowe typy danych.dll
+D:\Programowanie\C#\Zmienne, stałe oraz podstawowe typy danych\obj\Debug\net6.0\Zmienne, stałe oraz podstawowe typy danych.pdb
+D:\Programowanie\C#\Zmienne, stałe oraz podstawowe typy danych\obj\Debug\net6.0\Zmienne, stałe oraz podstawowe typy danych.genruntimeconfig.cache
+D:\Programowanie\C#\Zmienne, stałe oraz podstawowe typy danych\obj\Debug\net6.0\ref\Zmienne, stałe oraz podstawowe typy danych.dll

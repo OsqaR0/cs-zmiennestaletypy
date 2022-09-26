@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Zmienne, stałe oraz podstawowe typy danych/1.0.0": {
+        "runtime": {
+          "Zmienne, stałe oraz podstawowe typy danych.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zmienne, stałe oraz podstawowe typy danych/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
